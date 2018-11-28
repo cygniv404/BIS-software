@@ -3,6 +3,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
 [![Python 3.7.1](https://img.shields.io/badge/python-3.7.1-blue.svg)](https://www.python.org/downloads/release/python-371/)
+[![Build Status](https://travis-ci.org/google/google-api-python-client.svg?branch=master)](https://travis-ci.org/google/google-api-python-client)
 
 The Software's aim is to analyze and validate **PDF** data. These are shopping streets maps in 150 cities representing the compendium of the most important Shopping streets all around Germany.  
 
