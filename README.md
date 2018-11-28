@@ -2,7 +2,7 @@
 > filtering business addresses from a two dimensional map and validate / correct / retrieve these business addresses via [Google Maps APIs](https://cloud.google.com/maps-platform/places/) and their related informations such as (location, phone, website, business type...)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
-[![Python 3.7.1](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-371/)
+[![Python 3.7.1](https://img.shields.io/badge/python-3.7.1-blue.svg)](https://www.python.org/downloads/release/python-371/)
 
 The Software's aim is to analyze and validate **PDF** data. These are shopping streets maps in 150 cities representing the compendium of the most important Shopping streets all around Germany.  
 
