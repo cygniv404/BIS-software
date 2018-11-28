@@ -2,3 +2,4 @@ venv
 bind
 .idea
 __pycache__
+*.pyc
