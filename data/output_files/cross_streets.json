@@ -1,0 +1,19 @@
+[
+    {
+        "street_id": "02b48502-c3b3-48eb-a679-63665e367a07",
+        "cross_streets": [
+            {
+                "cross_street_id": "abb95e14-c403-4d02-ba17-83839a4bf416",
+                "name": "karl liebknecht straße"
+            },
+            {
+                "cross_street_id": "b487ab88-19d3-4c49-b047-24682365872d",
+                "name": "grunerstraße"
+            },
+            {
+                "cross_street_id": "c8f98cd5-d30f-4026-86d0-350085caae0a",
+                "name": "dircksenstraße"
+            }
+        ]
+    }
+]

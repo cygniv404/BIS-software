@@ -1,0 +1,132 @@
+[
+    {
+        "city_id": "91e69311-958e-4af9-8bd2-486a0bfcf7d0",
+        "street_id": "02b48502-c3b3-48eb-a679-63665e367a07",
+        "building": [
+            {
+                "number": "9",
+                "name": "Galeria Grill"
+            },
+            {
+                "number": "8",
+                "name": "Reno"
+            },
+            {
+                "number": "8",
+                "name": "Top Clean Reinigung"
+            },
+            {
+                "number": "9",
+                "name": "Eiscafé"
+            },
+            {
+                "number": "9",
+                "name": "Wiener Feinbäckerei"
+            },
+            {
+                "number": "9",
+                "name": "Blume 2000"
+            },
+            {
+                "number": "9",
+                "name": "Bubble Tea"
+            },
+            {
+                "number": "9",
+                "name": "Snack Express"
+            },
+            {
+                "number": "9",
+                "name": "Galeria Kaufhof"
+            },
+            {
+                "number": "1",
+                "name": "dm"
+            },
+            {
+                "number": "1",
+                "name": "C   A"
+            },
+            {
+                "number": "8",
+                "name": "Neuvermietung"
+            },
+            {
+                "number": "8",
+                "name": "Fielmann"
+            },
+            {
+                "number": "8",
+                "name": "Burger King"
+            },
+            {
+                "number": "8",
+                "name": "Kaffeehaus am Alex"
+            },
+            {
+                "number": "8",
+                "name": "Primark"
+            },
+            {
+                "number": "2",
+                "name": "I love Berlin"
+            },
+            {
+                "number": "2",
+                "name": "Ann Christine"
+            },
+            {
+                "number": "2",
+                "name": "Tchibo"
+            },
+            {
+                "number": "2",
+                "name": "Neuvermietung"
+            },
+            {
+                "number": "2",
+                "name": "Sparkasse Berlin"
+            },
+            {
+                "number": "3",
+                "name": "Saturn"
+            },
+            {
+                "number": "3",
+                "name": "Promod"
+            },
+            {
+                "number": "3",
+                "name": "New Yorker"
+            },
+            {
+                "number": "3",
+                "name": "O2"
+            },
+            {
+                "number": "3",
+                "name": "E-Plus Base"
+            },
+            {
+                "number": "3",
+                "name": "Esprit"
+            },
+            {
+                "number": "3",
+                "name": "Steilmann"
+            },
+            {
+                "number": "3",
+                "name": "Neuvermietung"
+            },
+            {
+                "number": "3",
+                "name": "LTur Last Minute"
+            },
+            {
+                "number": "3",
+                "name": "dm"
+            }
+        ]
+    }
+]
