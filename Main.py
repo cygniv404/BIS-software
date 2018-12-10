@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """
-    CLEANSING THE .TXT DATA with RegularExpression and SequenceMatcher BASED ON ANALYSIS OF THE GIVEN PDFs DATA
-    IN ORDER TO OBTAIN THE JSON FILES OF THE MATCHED ADDRESSES AND POTENTIAL MATCHES
+    Main Setup file to run the whole process for s given source data 
+   
 """
 import os
 import time
